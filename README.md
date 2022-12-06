@@ -4,6 +4,10 @@
 
 Parfenov Nikita M33051
 
+## How to use:
+
+-   Выделите текст и введите в командную строку (cmd/ctrl + shift + p) Style generate или выделите текст и нажмите cmd/ctrl + generate
+
 ## About Plugin
 
 ### С помощью этого плагина, мы можем генерировать стили из json файла, в css в первую очередь это сделано для того чтобы удобно имплементировать темную тему в tailwind 3, и писать вместо `bg-additional dark:bg-additional-dark` => `bg-additional`:
